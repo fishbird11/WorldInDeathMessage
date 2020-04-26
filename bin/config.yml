@@ -1,0 +1,8 @@
+# WorldInDeathMessage by FishbirdDD
+
+# %deathmessage% is the default minecraft death message
+# %world% is the world the player died in
+
+# Customize the message:
+
+message: "&6%deathmessage% in %world%"
